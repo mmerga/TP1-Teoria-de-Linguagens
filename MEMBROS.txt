@@ -1,0 +1,8 @@
+Trabalho 1 de Teoria De Linguagens.
+Ministrada pelo professor Dr. Vinícius Durelli.
+
+Ciência da Computação, 2019/01
+
+Alunos:
+	Alan Francisco da Silva.
+	Júlio Hebert Silva.
